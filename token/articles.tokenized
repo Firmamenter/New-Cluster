@@ -1,5 +1,29 @@
 .I 1
 .T
+victims
+call
+hackers’
+bluff
+as
+ransomware
+deadline
+nears
+.I 2
+.T
+uber
+threatens
+to
+fire
+star
+engineer
+in
+legal
+battle
+over
+driverless
+cars
+.I 3
+.T
 e.u.
 fines
 facebook
@@ -10,44 +34,15 @@ disclosures
 in
 whatsapp
 deal
-.I 2
-.T
-with
-ransomware,
-it’s
-pay
-and
-embolden
-perpetrators,
-or
-lose
-precious
-data
-.I 3
-.T
-china’s
-strength
-and
-its
-shopping
-lift
-alibaba’s
-results
 .I 4
 .T
 how
-uber
-and
-waymo
-ended
-up
-rivals
-in
-the
-race
-for
-driverless
-cars
+to
+protect
+yourself
+from
+ransomware
+attacks
 .I 5
 .T
 getting
@@ -88,14 +83,23 @@ magnifying
 glass
 .I 9
 .T
-how
+getting
+google
+cards
 to
-protect
-yourself
-from
-ransomware
-attacks
+load
+again
 .I 10
+.T
+julian
+assange
+rape
+investigation
+is
+dropped
+in
+sweden
+.I 11
 .T
 walmart
 reports
@@ -104,7 +108,7 @@ rise
 in
 online
 sales
-.I 11
+.I 12
 .T
 daily
 report:
@@ -115,7 +119,17 @@ and
 google
 were
 allies
-.I 12
+.I 13
+.T
+china’s
+strength
+and
+its
+shopping
+lift
+alibaba’s
+results
+.I 14
 .T
 how
 to
@@ -124,7 +138,7 @@ back
 against
 revenge
 porn
-.I 13
+.I 15
 .T
 google
 wants
@@ -133,7 +147,7 @@ be
 everywhere
 with
 everyone
-.I 14
+.I 16
 .T
 u.s.
 and
@@ -146,7 +160,7 @@ ban
 on
 trans-atlantic
 flights
-.I 15
+.I 17
 .T
 lost
 in
@@ -156,7 +170,20 @@ swamp,
 link
 by
 link
-.I 16
+.I 18
+.T
+with
+ransomware,
+it’s
+pay
+and
+embolden
+perpetrators,
+or
+lose
+precious
+data
+.I 19
 .T
 daily
 report:
@@ -168,54 +195,7 @@ korea
 in
 ransomware
 attack
-.I 17
-.T
-china
-is
-reluctant
-to
-blame
-north
-korea,
-its
-ally,
-for
-cyberattack
-.I 18
-.T
-digital
-security
-provider,
-crowdstrike,
-raises
-$100
-million
-.I 19
-.T
-malware
-case
-is
-major
-blow
-for
-the
-n.s.a.
 .I 20
-.T
-google
-photos
-gets
-smarter
-about
-sharing,
-can
-make
-books
--
-may.
-17,
-2017
-.I 21
 .T
 at
 i/o,
@@ -233,62 +213,7 @@ siri
 may.
 17,
 2017
-.I 22
-.T
-the
-coal
-miner
-who
-became
-a
-data
-miner
--
-may.
-17,
-2017
-.I 23
-.T
-google
-wants
-to
-help
-you
-to
-get
-a
-job
--
-may.
-17,
-2017
-.I 24
-.T
-wannacry
-ransomware
-cyber-attack
-'may
-have
-n
-korea
-link'
--
-bbc
-news
-.I 25
-.T
-cyber-attack
-glossary:
-what
-are
-malware,
-patches
-and
-worms?
--
-bbc
-news
-.I 26
+.I 21
 .T
 a
 sex
@@ -305,7 +230,55 @@ harmony?
 -
 bbc
 news
-.I 27
+.I 22
+.T
+fcc
+votes
+to
+overturn
+net
+neutrality
+rules
+-
+bbc
+news
+.I 23
+.T
+the
+five
+big
+announcements
+from
+google
+i/o
+-
+bbc
+news
+.I 24
+.T
+google
+owner
+alphabet
+balloons
+connect
+flood-hit
+peru
+-
+bbc
+news
+.I 25
+.T
+general
+election
+2017:
+illegal
+content
+sanctions
+threat
+-
+bbc
+news
+.I 26
 .T
 ransomware
 and
@@ -318,7 +291,7 @@ begins
 -
 bbc
 news
-.I 28
+.I 27
 .T
 the
 rise
@@ -329,69 +302,7 @@ vlogger
 -
 bbc
 news
-.I 29
-.T
-two
-britons
-arrested
-in
-thailand
-over
-football
-streaming
--
-bbc
-news
-.I 30
-.T
-the
-five
-big
-announcements
-from
-google
-i/o
--
-bbc
-news
-.I 31
-.T
-wannacry
-and
-the
-malware
-hall
-of
-fame
--
-bbc
-news
-.I 32
-.T
-docusign
-users
-sent
-phishing
-emails
-after
-data
-breach
--
-bbc
-news
-.I 33
-.T
-google
-owner
-alphabet
-balloons
-connect
-flood-hit
-peru
--
-bbc
-news
-.I 34
+.I 28
 .T
 'bots'
 spam
@@ -405,20 +316,7 @@ reversal
 -
 bbc
 news
-.I 35
-.T
-twitter
-user
-numbers
-overtaken
-by
-china's
-sina
-weibo
--
-bbc
-news
-.I 36
+.I 29
 .T
 wannacry
 ransomware
@@ -429,7 +327,20 @@ answered
 -
 bbc
 news
-.I 37
+.I 30
+.T
+global
+cyber-attack:
+security
+blogger
+halts
+ransomware
+'by
+accident'
+-
+bbc
+news
+.I 31
 .T
 microsoft
 warns
@@ -442,7 +353,18 @@ call
 -
 bbc
 news
-.I 38
+.I 32
+.T
+cyber-attack:
+is
+my
+computer
+at
+risk?
+-
+bbc
+news
+.I 33
 .T
 should
 you
@@ -453,7 +375,7 @@ ransom?
 -
 bbc
 news
-.I 39
+.I 34
 .T
 global
 cyber-attack:
@@ -468,41 +390,7 @@ us
 -
 bbc
 news
-.I 40
-.T
-global
-cyber-attack:
-security
-blogger
-halts
-ransomware
-'by
-accident'
--
-bbc
-news
-.I 41
-.T
-global
-manhunt
-for
-wannacry
-creators
--
-bbc
-news
-.I 42
-.T
-cyber-attack:
-is
-my
-computer
-at
-risk?
--
-bbc
-news
-.I 43
+.I 35
 .T
 ransomware
 cyber-attack
@@ -510,18 +398,6 @@ threat
 escalating
 -
 europol
--
-bbc
-news
-.I 44
-.T
-wannacry
-ransomware
-cyber-attacks
-slow
-but
-fears
-remain
 -
 bbc
 news
